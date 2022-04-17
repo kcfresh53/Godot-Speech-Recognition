@@ -1,0 +1,41 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://test.cs" type="Script" id=1]
+[ext_resource path="res://result_screen.gd" type="Script" id=2]
+
+[sub_resource type="AudioStreamMicrophone" id=1]
+
+[node name="test" type="Node2D"]
+script = ExtResource( 1 )
+_use_keyword = false
+
+[node name="Record_button" type="Button" parent="."]
+margin_left = 417.0
+margin_top = 150.0
+margin_right = 602.0
+margin_bottom = 210.0
+text = "Record"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="result_screen" type="Label" parent="."]
+margin_left = 280.0
+margin_top = 357.0
+margin_right = 745.0
+margin_bottom = 408.0
+text = "Demo text"
+align = 1
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AudioStreamRecord" type="AudioStreamPlayer" parent="."]
+stream = SubResource( 1 )
+autoplay = true
+bus = "Record"
+
+[connection signal="result" from="." to="result_screen" method="_on_test_result"]
+[connection signal="button_down" from="Record_button" to="." method="_on_Record_button_button_down"]
+[connection signal="button_up" from="Record_button" to="." method="_on_Record_button_button_up"]

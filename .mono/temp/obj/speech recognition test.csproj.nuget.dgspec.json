@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ALIKO YAHAYA\\Downloads\\kc's stuff\\OneDrive\\Documents\\speech recognition test\\speech recognition test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ALIKO YAHAYA\\Downloads\\kc's stuff\\OneDrive\\Documents\\speech recognition test\\speech recognition test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ALIKO YAHAYA\\Downloads\\kc's stuff\\OneDrive\\Documents\\speech recognition test\\speech recognition test.csproj",
+        "projectName": "speech recognition test",
+        "projectPath": "C:\\Users\\ALIKO YAHAYA\\Downloads\\kc's stuff\\OneDrive\\Documents\\speech recognition test\\speech recognition test.csproj",
+        "packagesPath": "C:\\Users\\ALIKO YAHAYA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ALIKO YAHAYA\\Downloads\\kc's stuff\\OneDrive\\Documents\\speech recognition test\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ALIKO YAHAYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Syn.Speech": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

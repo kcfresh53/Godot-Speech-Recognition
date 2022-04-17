@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Syn.Speech/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Syn.Speech.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Syn.Speech.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syn.Speech/1.0.3": {
+      "sha512": "N6lc8D9cr39vOQ6Cvr1c61bUcDqIxN1nKYC69yEog+X3a7uZJA4ayY3Lusozzqtqcng84jrZoehltdsPOjgxpw==",
+      "type": "package",
+      "path": "syn.speech/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Syn.Speech.dll",
+        "syn.speech.1.0.3.nupkg.sha512",
+        "syn.speech.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Syn.Speech >= 1.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ALIKO YAHAYA\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\ALIKO YAHAYA\\Downloads\\kc's stuff\\OneDrive\\Documents\\speech recognition test\\speech recognition test.csproj",
+      "projectName": "speech recognition test",
+      "projectPath": "c:\\Users\\ALIKO YAHAYA\\Downloads\\kc's stuff\\OneDrive\\Documents\\speech recognition test\\speech recognition test.csproj",
+      "packagesPath": "C:\\Users\\ALIKO YAHAYA\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\ALIKO YAHAYA\\Downloads\\kc's stuff\\OneDrive\\Documents\\speech recognition test\\.mono\\temp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ALIKO YAHAYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "dependencies": {
+          "Syn.Speech": {
+            "target": "Package",
+            "version": "[1.0.3, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

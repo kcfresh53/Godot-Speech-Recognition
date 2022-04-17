@@ -1,0 +1,11 @@
+C:\Users\ALIKO YAHAYA\Downloads\kc's stuff\OneDrive\Documents\speech recognition test\.mono\temp\bin\Debug\speech recognition test.dll
+C:\Users\ALIKO YAHAYA\Downloads\kc's stuff\OneDrive\Documents\speech recognition test\.mono\temp\bin\Debug\speech recognition test.pdb
+C:\Users\ALIKO YAHAYA\Downloads\kc's stuff\OneDrive\Documents\speech recognition test\.mono\temp\obj\Debug\speech recognition test.csproj.AssemblyReference.cache
+C:\Users\ALIKO YAHAYA\Downloads\kc's stuff\OneDrive\Documents\speech recognition test\.mono\temp\obj\Debug\speech recognition test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALIKO YAHAYA\Downloads\kc's stuff\OneDrive\Documents\speech recognition test\.mono\temp\obj\Debug\speech recognition test.AssemblyInfoInputs.cache
+C:\Users\ALIKO YAHAYA\Downloads\kc's stuff\OneDrive\Documents\speech recognition test\.mono\temp\obj\Debug\speech recognition test.AssemblyInfo.cs
+C:\Users\ALIKO YAHAYA\Downloads\kc's stuff\OneDrive\Documents\speech recognition test\.mono\temp\obj\Debug\speech recognition test.csproj.CoreCompileInputs.cache
+C:\Users\ALIKO YAHAYA\Downloads\kc's stuff\OneDrive\Documents\speech recognition test\.mono\temp\obj\Debug\speech recognition test.dll
+C:\Users\ALIKO YAHAYA\Downloads\kc's stuff\OneDrive\Documents\speech recognition test\.mono\temp\obj\Debug\speech recognition test.pdb
+C:\Users\ALIKO YAHAYA\Downloads\kc's stuff\OneDrive\Documents\speech recognition test\.mono\temp\obj\Debug\speech recognition test.csproj.CopyComplete
+C:\Users\ALIKO YAHAYA\Downloads\kc's stuff\OneDrive\Documents\speech recognition test\.mono\temp\bin\Debug\Syn.Speech.dll

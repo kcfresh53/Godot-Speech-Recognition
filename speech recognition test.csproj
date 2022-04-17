@@ -1,0 +1,11 @@
+<Project Sdk="Godot.NET.Sdk/3.3.0">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <RootNamespace>speechrecognitiontest</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Syn.Speech" Version="1.0.3" />
+  </ItemGroup>
+
+</Project>
